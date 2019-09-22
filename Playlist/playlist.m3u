@@ -16,7 +16,7 @@ http://edge.aovivo.club/hls/s:155.138.227.45/warnerchannel_0a57cb53_285f37c067df
 http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_be7f43c7085950a03822f5fc6c43b2e2e9cab1e5/720p_940kbit/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e Series", FX - Channel
-http://edge.aovivo.club/hls/s:155.138.227.156/fx_667be543_8cc4d70739958fee6bce10ba88c6a4210ad3cac1/720p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_8cc4d70739958fee6bce10ba88c6a4210ad3cac1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Logo.svg" group-title="Filmes e Series", TNT - Channel
 https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDQ6MDQ6MTYgQU0maGFzaF92YWx1ZT1VVXpiWmJTZU1PTjhYdm5zNU9nRXFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
