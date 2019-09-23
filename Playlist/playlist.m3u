@@ -19,7 +19,7 @@ http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_be7f43
 http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_8cc4d70739958fee6bce10ba88c6a4210ad3cac1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Logo.svg" group-title="Filmes e Series", TNT - Channel
-http://51.15.15.119:80/live/karen/1234/61827.m3u8
+rtmp://88.190.30.28/chapolin/chapolin playpath=chapolin swfUrl=http://www.tvonlinegratis.tv/player.swflive=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/chapolin.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1280px-HBO-Logo.svg.png" group-title="Filmes e Series", HBO - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_e1e2f2137380a67859ecc5dbc3b72526cc64ea8f.m3u8
