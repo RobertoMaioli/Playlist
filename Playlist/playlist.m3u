@@ -53,7 +53,7 @@ http://edge.aovivo.club/hls/s:155.138.227.156/telecinepremium_a929eb33_40b111453
 http://edge.aovivo.club/hls/s:155.138.226.22/disneychannel_a9334987_4cac10a75a82d1eda8f725477e71590b833414bb/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Documentario", Animal Planet - Channel
-http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7491
+http://51.15.15.119:80/live/rogers/1234/61718.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_max_za_logo.jpg" group-title="Filmes e Series", Sony - Channel
 http://clientportalpro.com:2500/live/1122335566/1122335566/13248.ts
