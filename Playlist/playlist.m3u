@@ -10,7 +10,7 @@ http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/2344
 http://edge.aovivo.club/hls/s:155.138.226.22/historyopcao2_00a8a5c3_4a61d0afbab227749d91a54716910b923b8a17b4/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="Filmes e Series", WarnerBros - Channel
-http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7229
+http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7228
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="Documentario", NationalGeo - Channel
 http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_be7f43c7085950a03822f5fc6c43b2e2e9cab1e5/720p_940kbit/chunklist.m3u8
@@ -74,7 +74,4 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_3195bfcc71084
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxhd.png" group-title="Filmes e Series", FOX HD - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_dd4930b4b9c8719b3385c6675bd9f9de9e231c58.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxhd.png" group-title="Filmes e Series", Teste - Channel
-http://62.210.177.22:8080/get.php?username=silan&password=silan&type=m3u
 
