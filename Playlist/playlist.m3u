@@ -13,7 +13,7 @@ http://edge.aovivo.club/hls/s:155.138.226.22/historyopcao2_00a8a5c3_4a61d0afbab2
 http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7140
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="Documentario", NationalGeo - Channel
-http://edge.aovivo.club/hls/s:155.138.227.156/nationalgeographic_2e01e174_be7f43c7085950a03822f5fc6c43b2e2e9cab1e5/720p_940kbit/chunklist.m3u8
+http://51.15.15.119:80/live/rogers/1234/61639.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e Series", FX - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_8cc4d70739958fee6bce10ba88c6a4210ad3cac1/playlist.m3u8
