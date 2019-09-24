@@ -28,7 +28,7 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_e1e2f2137380a678
 http://edge.aovivo.club/hls/s:155.138.227.45/universalchannel_8290abc6_28ddc7faac061951ebdfc9d472ef5efcd400c5fd/360p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="Desenhos", CN - Channel
-http://edge.aovivo.club/hls/s:45.32.217.66/cartoonnetwork_511a418e_32cafefe6b0947dc35a5cc89016fd9593e80faf3/410p/chunklist.m3u8
+http://51.15.15.119:80/live/rogers/1234/61706.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="Musica", MultiShow - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_325a25d1a9005b3d604dcf8843be7d32a89cb535.m3u8
