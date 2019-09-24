@@ -22,7 +22,10 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_8cc4d70739958fee6bce10
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1261808206_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1280px-HBO-Logo.svg.png" group-title="Filmes e Series", HBO - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_e1e2f2137380a67859ecc5dbc3b72526cc64ea8f.m3u8
+http://51.15.15.119:80/live/rogers/1234/61867.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1280px-HBO-Logo.svg.png" group-title="Filmes e Series", HBO2 - Channel
+http://51.15.15.119:80/live/rogers/1234/62822.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/universalchannel.png" group-title="Filmes e Series", Universal - Channel
 http://edge.aovivo.club/hls/s:155.138.227.45/universalchannel_8290abc6_28ddc7faac061951ebdfc9d472ef5efcd400c5fd/360p/chunklist.m3u8
@@ -47,7 +50,6 @@ http://edge.aovivo.club/hls/s:45.32.217.66/nickelodeon_bc33ea4e_4f2d23fb8438dd75
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e Series", Telecine Premium - Channel
 http://edge.aovivo.club/hls/s:155.138.226.22/telecinepremium_a929eb33_ae6128380e5b979f79fe0c3bae263fa03e3a3b2c/480p/chunklist.m3u8
-http://edge.aovivo.club/hls/s:155.138.227.156/telecinepremium_a929eb33_40b1114532bbdc73ad5396d036141d86b774b749/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", Disney XD -Channel
 http://51.15.15.119:80/live/rogers/1234/62885.m3u8
