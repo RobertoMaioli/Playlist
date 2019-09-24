@@ -3,8 +3,35 @@
 #EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Filmes e Series", AE - Channel
 http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7494
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="Documentario", Discovery - Channel
-http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/2344
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Musica", BIS - Channel
+http://51.15.15.119:80/live/rogers/1234/61899.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="Desenhos", CN FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61896.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="Desenhos", CN FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61896.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png" group-title="Luta", COMBATE FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61894.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png" group-title="Luta", COMBATE HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61699.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png" group-title="Luta", COMBATE SD
+http://51.15.15.119:80/live/rogers/1234/62895.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" group-title="Esporte", DAZN EXTRA: 01
+http://51.15.15.119:80/live/rogers/1234/63869.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" group-title="Esporte", DAZN EXTRA: 02
+http://51.15.15.119:80/live/rogers/1234/63868.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="Documentario", Discovery FHD - Channel - 
+http://51.15.15.119:80/live/rogers/1234/61892.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="Documentario", Discovery - Channel - HD
+http://51.15.15.119:80/live/rogers/1234/61697.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="Documentario", History - Channel
 http://edge.aovivo.club/hls/s:155.138.226.22/historyopcao2_00a8a5c3_4a61d0afbab227749d91a54716910b923b8a17b4/410p/chunklist.m3u8
@@ -32,9 +59,6 @@ http://51.15.15.119:80/live/rogers/1234/62822.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/universalchannel.png" group-title="Filmes e Series", Universal - Channel
 http://edge.aovivo.club/hls/s:155.138.227.45/universalchannel_8290abc6_28ddc7faac061951ebdfc9d472ef5efcd400c5fd/360p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="Desenhos", CN - Channel
-http://51.15.15.119:80/live/rogers/1234/61706.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="Musica", MultiShow - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_325a25d1a9005b3d604dcf8843be7d32a89cb535.m3u8
@@ -75,8 +99,14 @@ http://edge.aovivo.club/hls/s:155.138.227.45/telecinefun_ae1e7198_a0b0b0473ddc41
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tctouch.png" group-title="Filmes e Series", Telecine Touch - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_be133cd899dc3a068f3956581ed69901647a5498.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cinemax.png" group-title="Filmes e Series", Cinemax - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_3195bfcc7108455b2a8994461299b2b38c1f16e4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cinemax.png" group-title="Filmes e Series", Cinemax HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61700.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cinemax.png" group-title="Filmes e Series", Cinemax SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62899.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cinemax.png" group-title="Filmes e Series", Cinemax FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61895.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxhd.png" group-title="Filmes e Series", FOX HD - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_dd4930b4b9c8719b3385c6675bd9f9de9e231c58.m3u8
