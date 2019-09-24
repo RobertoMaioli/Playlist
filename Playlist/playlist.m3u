@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="Filmes e Series", Telecine Pipoca - Channel
-http://edge.aovivo.club/hls/s:155.138.227.156/telecinepipoca_fd937516_bcc8141acf58f26512bcb21c5d6868abf0d2c70a/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Filmes e Series", A&E
+http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/2346
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="Documentario", Discovery - Channel
 http://edge.aovivo.club/hls/s:155.138.226.22/discoverychannel_af3e1334_e92da7d6428ca004de86bde39a22fdf53e62e1e4/480p_930kbit/chunklist.m3u8
