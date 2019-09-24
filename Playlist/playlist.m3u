@@ -6,9 +6,6 @@ http://51.15.15.119:80/live/rogers/1234/61899.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="Desenhos", CN FHD - Channel
 http://51.15.15.119:80/live/rogers/1234/61896.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cartoonnetwork.png" group-title="Desenhos", CN FHD - Channel
-http://51.15.15.119:80/live/rogers/1234/61896.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png" group-title="Luta", COMBATE FHD - Channel
 http://51.15.15.119:80/live/rogers/1234/61894.m3u
 
