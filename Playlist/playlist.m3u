@@ -1,8 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Filmes e Series", AE - Channel
-http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7494
-
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Musica", BIS - Channel
 http://51.15.15.119:80/live/rogers/1234/61899.m3u8
 
@@ -33,11 +30,20 @@ http://51.15.15.119:80/live/rogers/1234/61892.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/discovery.png" group-title="Documentario", Discovery - Channel - HD
 http://51.15.15.119:80/live/rogers/1234/61697.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="Documentario", History - Channel
-http://edge.aovivo.club/hls/s:155.138.226.22/historyopcao2_00a8a5c3_4a61d0afbab227749d91a54716910b923b8a17b4/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/60431/logo_discovery%20civilization.png" group-title="Documentario", Discovery Civilization FHD - Channel - HD
+http://51.15.15.119:80/live/rogers/1234/61891.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="Filmes e Series", WarnerBros - Channel
-http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7140
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="Documentario", History FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61862.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="Documentario", History HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61652.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="Filmes e Series", Warner FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61824.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/warner.png" group-title="Filmes e Series", Warner HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61591.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="Documentario", NationalGeo - Channel
 http://51.15.15.119:80/live/rogers/1234/61639.m3u8
@@ -45,59 +51,131 @@ http://51.15.15.119:80/live/rogers/1234/61639.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="Documentario", NationalGeo Wild- Channel
 http://51.15.15.119:80/live/rogers/1234/62804.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e Series", FX - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_8cc4d70739958fee6bce10ba88c6a4210ad3cac1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e Series", FX FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61874.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Logo.svg" group-title="Filmes e Series", TNT - Channel
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1261808206_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e Series", FX HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61672.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e Series", FX SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62870.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Logo.svg" group-title="Filmes e Series", TNT FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61598.m3u8
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Logo.svg" group-title="Filmes e Series", TNT HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61597.m3u8
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Logo.svg" group-title="Filmes e Series", TNT SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62750.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1280px-HBO-Logo.svg.png" group-title="Filmes e Series", HBO - Channel
+http://51.15.15.119:80/live/rogers/1234/61655.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes e Series", HBO2 FHD - Channel
 http://51.15.15.119:80/live/rogers/1234/61867.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1280px-HBO-Logo.svg.png" group-title="Filmes e Series", HBO2 - Channel
-http://51.15.15.119:80/live/rogers/1234/62822.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes e Series", HBO2 HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61657.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/universalchannel.png" group-title="Filmes e Series", Universal - Channel
-http://edge.aovivo.club/hls/s:155.138.227.45/universalchannel_8290abc6_28ddc7faac061951ebdfc9d472ef5efcd400c5fd/360p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/universalchannel.png" group-title="Filmes e Series", Universal FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61835.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="Musica", MultiShow - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_325a25d1a9005b3d604dcf8843be7d32a89cb535.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/universalchannel.png" group-title="Filmes e Series", Universal HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61609.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Esportes", FoxSports - Channel
-http://bitly.com:80/esporteinterativo-2hd
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/universalchannel.png" group-title="Filmes e Series", Universal SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62763.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes", ESPN - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/espn_6c1e671f_9a7073daf49a7c265e5f7044c7f7f2f7738bf54b/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="Musica", MultiShow FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61854.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Esportes", Premiere - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_b83a7d6df2be90444e22bae474a737f6691eb35a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/multishow.png" group-title="Musica", MultiShow HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61642.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="Desenhos", Nick - Channel
-http://edge.aovivo.club/hls/s:45.32.217.66/nickelodeon_bc33ea4e_4f2d23fb8438dd7506e30d2b1cf55967d6107595/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Esportes", FoxSports FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61875.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e Series", Telecine Premium - Channel
-http://edge.aovivo.club/hls/s:155.138.226.22/telecinepremium_a929eb33_ae6128380e5b979f79fe0c3bae263fa03e3a3b2c/480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Esportes", FoxSports HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61673.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", Disney XD -Channel
-http://51.15.15.119:80/live/rogers/1234/62885.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Esportes", FoxSports SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62872.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Documentario", Animal Planet - Channel
-http://51.15.15.119:80/live/rogers/1234/61718.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes", ESPN Brasil FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61881.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_max_za_logo.jpg" group-title="Filmes e Series", Sony - Channel
-http://clientportalpro.com:2500/live/1122335566/1122335566/13248.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes", ESPN Brasil HD - Channel
+ttp://51.15.15.119:80/live/rogers/1234/61682.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/paramount-100x100.png" group-title="Filmes e Series", Paramount - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/paramountchannel_efa260ad_49ff137f0bfc7c7890a558766e5cf939e2a3f933.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes", ESPN Brasil FHD - SD
+http://51.15.15.119:80/live/rogers/1234/62878.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/maxprime.png" group-title="Filmes e Series", MaxPrime - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/maxprime_9c676e00_243fe220c20356df6bcdd0277f38381756913ec4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Esportes", Premiere FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61841.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcfun.png" group-title="Filmes e Series", Telecine Fun - Channel
-http://edge.aovivo.club/hls/s:155.138.227.45/telecinefun_ae1e7198_a0b0b0473ddc4189817c0a2db895dd8cfd8f4e03/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Esportes", Premiere SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62787.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tctouch.png" group-title="Filmes e Series", Telecine Touch - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_be133cd899dc3a068f3956581ed69901647a5498.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="Desenhos", Nick FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61850.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="Desenhos", Nick HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61638.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="Filmes e Series", Telecine Pipoca FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61830.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="Filmes e Series", Telecine Pipoca HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61602.m3u8
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="Filmes e Series", Telecine Pipoca SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62756.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e Series", Telecine Premium FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61829.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e Series", Telecine Premium HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61601.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e Series", Telecine Premium SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62755.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", DisneyCh FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61884.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", DisneyCh HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61689.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", DisneyCh SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62887.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_max_za_logo.jpg" group-title="Filmes e Series", Sony FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61897.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_max_za_logo.jpg" group-title="Filmes e Series", Sony HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61707.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_max_za_logo.jpg" group-title="Filmes e Series", Sony SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62768.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/paramount-100x100.png" group-title="Filmes e Series", Paramount FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61848.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/paramount-100x100.png" group-title="Filmes e Series", Paramount SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62797.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/maxprime.png" group-title="Filmes e Series", MaxPrime FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61858.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/maxprime.png" group-title="Filmes e Series", MaxPrime SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62813.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="Filmes e Series", Max FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61859.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="Filmes e Series", Max HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61647.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cinemax.png" group-title="Filmes e Series", Cinemax HD - Channel
 http://51.15.15.119:80/live/rogers/1234/61700.m3u8
@@ -108,6 +186,11 @@ http://51.15.15.119:80/live/rogers/1234/62899.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cinemax.png" group-title="Filmes e Series", Cinemax FHD - Channel
 http://51.15.15.119:80/live/rogers/1234/61895.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxhd.png" group-title="Filmes e Series", FOX HD - Channel
-http://edge.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_dd4930b4b9c8719b3385c6675bd9f9de9e231c58.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxhd.png" group-title="Filmes e Series", FOX FHD - Channel
+http://51.15.15.119:80/live/rogers/1234/61878.m3u8
 
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxhd.png" group-title="Filmes e Series", FOX HD - Channel
+http://51.15.15.119:80/live/rogers/1234/61678.m3u8
+
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxhd.png" group-title="Filmes e Series", FOX SD - Channel
+http://51.15.15.119:80/live/rogers/1234/62874.m3u8
