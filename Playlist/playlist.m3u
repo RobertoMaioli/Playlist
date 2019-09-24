@@ -49,8 +49,8 @@ http://edge.aovivo.club/hls/s:45.32.217.66/nickelodeon_bc33ea4e_4f2d23fb8438dd75
 http://edge.aovivo.club/hls/s:155.138.226.22/telecinepremium_a929eb33_ae6128380e5b979f79fe0c3bae263fa03e3a3b2c/480p/chunklist.m3u8
 http://edge.aovivo.club/hls/s:155.138.227.156/telecinepremium_a929eb33_40b1114532bbdc73ad5396d036141d86b774b749/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", Disney-Channel
-http://edge.aovivo.club/hls/s:155.138.226.22/disneychannel_a9334987_4cac10a75a82d1eda8f725477e71590b833414bb/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", Disney XD -Channel
+http://51.15.15.119:80/live/rogers/1234/62885.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Documentario", Animal Planet - Channel
 http://51.15.15.119:80/live/rogers/1234/61718.m3u8
