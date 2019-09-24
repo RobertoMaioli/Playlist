@@ -15,6 +15,9 @@ http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7140
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="Documentario", NationalGeo - Channel
 http://51.15.15.119:80/live/rogers/1234/61639.m3u8
 
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="Documentario", NationalGeo Wild- Channel
+http://51.15.15.119:80/live/rogers/1234/62804.m3u8
+
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e Series", FX - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_8cc4d70739958fee6bce10ba88c6a4210ad3cac1/playlist.m3u8
 
