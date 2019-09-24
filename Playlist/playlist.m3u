@@ -194,3 +194,6 @@ http://51.15.15.119:80/live/rogers/1234/61678.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/foxhd.png" group-title="Filmes e Series", FOX SD - Channel
 http://51.15.15.119:80/live/rogers/1234/62874.m3u8
+
+#EXTINF:-1 tvg-logo="https://myrealdomain.com/images/chaves-logo-png-4.png" group-title="Filmes e Series", Chaves - Channel
+http://51.15.15.119:80/live/rogers/1234/59546.m3u8
