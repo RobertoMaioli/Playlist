@@ -47,6 +47,7 @@ http://edge.aovivo.club/hls/s:45.32.217.66/nickelodeon_bc33ea4e_4f2d23fb8438dd75
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e Series", Telecine Premium - Channel
 http://edge.aovivo.club/hls/s:155.138.226.22/telecinepremium_a929eb33_ae6128380e5b979f79fe0c3bae263fa03e3a3b2c/480p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinepremium_a929eb33_40b1114532bbdc73ad5396d036141d86b774b749/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", Disney-Channel
 http://edge.aovivo.club/hls/s:155.138.226.22/disneychannel_a9334987_4cac10a75a82d1eda8f725477e71590b833414bb/410p/chunklist.m3u8
@@ -55,7 +56,7 @@ http://edge.aovivo.club/hls/s:155.138.226.22/disneychannel_a9334987_4cac10a75a82
 http://ssiptv.smartlista.org:8880/6sc98kavjgw/47vqsdnyj6a/7491
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sony_max_za_logo.jpg" group-title="Filmes e Series", Sony - Channel
-http://edge.aovivo.club/hls/s:155.138.227.156/sony_06349be7_49fc1f92981727709ebc42ddd71eb138a9f51a89/410p/chunklist.m3u8
+http://clientportalpro.com:2500/live/1122335566/1122335566/13248.ts
 
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/paramount-100x100.png" group-title="Filmes e Series", Paramount - Channel
 http://edge.aovivo.club/hls/s:95.216.15.44:81/paramountchannel_efa260ad_49ff137f0bfc7c7890a558766e5cf939e2a3f933.m3u8
